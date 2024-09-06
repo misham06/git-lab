@@ -66,3 +66,16 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 ## Answer 10
 ---
+The changes were not reflected to my local copy
+
+## Answer 11
+---
+it rejects the push because the README.md file in github is more updated than the local file
+
+## Answer 12
+---
+The changes were reflected to my local copy after the git pull command
+
+## Answer 13
+---
+.  ..  git-lab-2  Labs
